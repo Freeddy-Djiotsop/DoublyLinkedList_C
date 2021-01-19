@@ -1,2 +1,2 @@
 # DoublyLinkedList_C
-Doppelt verkettete Liste in C. Programm gibt die Daten in umgekehrter Reihenfolge aus.
+Doppelte verkettete Liste in C. Programm gibt die Daten in umgekehrter Reihenfolge aus.
